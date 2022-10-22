@@ -13,13 +13,10 @@ namespace ReadAllText
         static void Main(string[] args)
         {
             var systemService = new SystemService();
-            //string dir = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
-            //var path = Path.Combine(dir, "input.txt");
             var dir = Environment.CurrentDirectory.Replace("bin\\Debug\\net6.0", "");
             var path = Path.Combine(dir, "input.txt");
             string[] content = File.ReadAllLines(path, Encoding.UTF8);
 
-            //var filePath = Path.Combine(dir, "filename.txt");
             TextWriter tw = new StreamWriter(Path.Combine(dir, "output.txt"));
 
             Console.WriteLine("***Display***\n");
