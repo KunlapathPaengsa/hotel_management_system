@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hotel-management-system.Service/1.0.0": {
+        "dependencies": {
+          "hotel-management-system.Model": "1.0.0"
+        },
+        "runtime": {
+          "hotel-management-system.Service.dll": {}
+        }
+      },
+      "hotel-management-system.Model/1.0.0": {
+        "runtime": {
+          "hotel-management-system.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hotel-management-system.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hotel-management-system.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

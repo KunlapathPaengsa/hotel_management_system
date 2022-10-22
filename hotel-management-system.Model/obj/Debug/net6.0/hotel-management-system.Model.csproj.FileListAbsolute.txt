@@ -1,0 +1,12 @@
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\bin\Debug\net6.0\hotel-management-system.Model.deps.json
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\bin\Debug\net6.0\hotel-management-system.Model.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\bin\Debug\net6.0\hotel-management-system.Model.pdb
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.csproj.AssemblyReference.cache
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.AssemblyInfoInputs.cache
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.AssemblyInfo.cs
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.csproj.CoreCompileInputs.cache
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\refint\hotel-management-system.Model.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\hotel-management-system.Model.pdb
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Model\obj\Debug\net6.0\ref\hotel-management-system.Model.dll

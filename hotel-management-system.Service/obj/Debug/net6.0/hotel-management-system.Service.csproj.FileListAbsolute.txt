@@ -1,0 +1,15 @@
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\bin\Debug\net6.0\hotel-management-system.Service.deps.json
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\bin\Debug\net6.0\hotel-management-system.Service.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\bin\Debug\net6.0\hotel-management-system.Service.pdb
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.csproj.AssemblyReference.cache
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.AssemblyInfoInputs.cache
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.AssemblyInfo.cs
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.csproj.CoreCompileInputs.cache
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\refint\hotel-management-system.Service.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.pdb
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\ref\hotel-management-system.Service.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\bin\Debug\net6.0\hotel-management-system.Model.dll
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\bin\Debug\net6.0\hotel-management-system.Model.pdb
+C:\Users\Maxiel\source\repos\hotel-management-system\hotel-management-system.Service\obj\Debug\net6.0\hotel-management-system.Service.csproj.CopyComplete
